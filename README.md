@@ -7,7 +7,13 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 Movie Booking Customer App 
+
+
+
 This Project has "main.dart" as Entry Point. 
+
+
+
 = = = To Generate Android release steps = = =
 
 Generate FAT APK
